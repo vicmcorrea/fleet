@@ -1,0 +1,277 @@
+{
+  "python_coder": {
+    "status": "earned",
+    "updated": "2026-05-20T18:25:00.786918+00:00",
+    "details": "notebook=badge-collector-python-nb-1779301493"
+  },
+  "r_coder": {
+    "status": "earned",
+    "updated": "2026-05-20T18:25:07.671892+00:00",
+    "details": "notebook=badge-collector-r-nb-1779301500"
+  },
+  "api_notebook_creator": {
+    "status": "earned",
+    "updated": "2026-05-20T18:25:00.788270+00:00",
+    "details": "notebook=badge-collector-python-nb-1779301493"
+  },
+  "utility_scripter": {
+    "status": "earned",
+    "updated": "2026-05-20T18:25:14.690070+00:00",
+    "details": "script=badge-collector-utility-script-1779301507"
+  },
+  "code_uploader": {
+    "status": "earned",
+    "updated": "2026-05-20T18:25:00.789052+00:00",
+    "details": "notebook=badge-collector-python-nb-1779301493"
+  },
+  "code_forker": {
+    "status": "earned",
+    "updated": "2026-05-20T18:25:27.958409+00:00",
+    "details": "forked=badge-collector-forked-nb-1779301514"
+  },
+  "code_tagger": {
+    "status": "earned",
+    "updated": "2026-05-20T18:25:35.059777+00:00",
+    "details": "notebook=badge-collector-tagged-nb-1779301527"
+  },
+  "dataset_creator": {
+    "status": "earned",
+    "updated": "2026-05-20T18:25:48.241949+00:00",
+    "details": "dataset=badge-collector-dataset-1779301535"
+  },
+  "api_dataset_creator": {
+    "status": "earned",
+    "updated": "2026-05-20T18:25:48.243421+00:00",
+    "details": "dataset=badge-collector-dataset-1779301535"
+  },
+  "dataset_tagger": {
+    "status": "earned",
+    "updated": "2026-05-20T18:26:01.385912+00:00",
+    "details": "dataset=badge-collector-tagged-dataset-1779301548"
+  },
+  "dataset_documenter": {
+    "status": "earned",
+    "updated": "2026-05-20T18:26:16.092300+00:00",
+    "details": "dataset=badge-collector-documented-dataset-1779301561"
+  },
+  "model_creator": {
+    "status": "earned",
+    "updated": "2026-05-20T18:26:22.054494+00:00",
+    "details": "model=badge-collector-model-1779301576"
+  },
+  "api_model_creator": {
+    "status": "earned",
+    "updated": "2026-05-20T18:26:22.055102+00:00",
+    "details": "model=badge-collector-model-1779301576"
+  },
+  "model_variation_creator": {
+    "status": "earned",
+    "updated": "2026-05-20T18:26:39.509161+00:00",
+    "details": "variation=vicmcorrea/badge-collector-model-var-1779301582/other/default"
+  },
+  "model_tagger": {
+    "status": "earned",
+    "updated": "2026-05-20T18:26:42.020670+00:00",
+    "details": "model=badge-collector-tagged-model-1779301599"
+  },
+  "model_documenter": {
+    "status": "earned",
+    "updated": "2026-05-20T18:27:00.363868+00:00",
+    "details": "model=badge-collector-documented-model-1779301602"
+  },
+  "competitor": {
+    "status": "pending",
+    "updated": null,
+    "details": null
+  },
+  "getting_started_competitor": {
+    "status": "pending",
+    "updated": null,
+    "details": null
+  },
+  "playground_competitor": {
+    "status": "pending",
+    "updated": null,
+    "details": null
+  },
+  "community_competitor": {
+    "status": "pending",
+    "updated": null,
+    "details": null
+  },
+  "code_submitter": {
+    "status": "pending",
+    "updated": null,
+    "details": null
+  },
+  "notebook_modeler": {
+    "status": "pending",
+    "updated": null,
+    "details": null
+  },
+  "competition_modeler": {
+    "status": "pending",
+    "updated": null,
+    "details": null
+  },
+  "dataset_pipeline_creator": {
+    "status": "earned",
+    "updated": "2026-05-20T18:28:12.692179+00:00",
+    "details": "dataset=badge-collector-pipeline-dataset-1779301678 from notebook=badge-collector-ds-pipeline-nb-1779301623"
+  },
+  "model_pipeline_creator": {
+    "status": "earned",
+    "updated": "2026-05-20T18:29:13.641685+00:00",
+    "details": "model=badge-collector-pipeline-model-1779301747 from notebook=badge-collector-model-pipeline-nb-1779301692"
+  },
+  "r_markdown_coder": {
+    "status": "earned",
+    "updated": "2026-05-20T18:29:20.748343+00:00",
+    "details": "notebook=badge-collector-r-markdown-1779301753"
+  },
+  "stylish": {
+    "status": "skipped",
+    "updated": "2026-05-20T18:29:23.064457+00:00",
+    "details": "Playwright not available \u2014 manual action needed"
+  },
+  "vampire": {
+    "status": "skipped",
+    "updated": "2026-05-20T18:29:23.065274+00:00",
+    "details": "Playwright not available \u2014 manual action needed"
+  },
+  "bookmarker": {
+    "status": "skipped",
+    "updated": "2026-05-20T18:29:23.066092+00:00",
+    "details": "Playwright not available \u2014 manual action needed"
+  },
+  "collector": {
+    "status": "skipped",
+    "updated": "2026-05-20T18:29:23.066922+00:00",
+    "details": "Playwright not available \u2014 manual action needed"
+  },
+  "github_coder": {
+    "status": "skipped",
+    "updated": "2026-05-20T18:29:23.067553+00:00",
+    "details": "requires GitHub linking via UI"
+  },
+  "colab_coder": {
+    "status": "skipped",
+    "updated": "2026-05-20T18:29:23.069471+00:00",
+    "details": "requires Colab action via UI"
+  },
+  "linked_dataset_creator": {
+    "status": "skipped",
+    "updated": "2026-05-20T18:29:23.070150+00:00",
+    "details": "requires URL-linked dataset via UI"
+  },
+  "linked_model_creator": {
+    "status": "skipped",
+    "updated": "2026-05-20T18:29:23.070778+00:00",
+    "details": "requires linked model via UI"
+  },
+  "seven_day_login_streak": {
+    "status": "pending",
+    "updated": null,
+    "details": null
+  },
+  "thirty_day_login_streak": {
+    "status": "pending",
+    "updated": null,
+    "details": null
+  },
+  "submission_streak": {
+    "status": "pending",
+    "updated": null,
+    "details": null
+  },
+  "super_submission_streak": {
+    "status": "pending",
+    "updated": null,
+    "details": null
+  },
+  "contributor": {
+    "status": "pending",
+    "updated": null,
+    "details": null
+  },
+  "expert": {
+    "status": "pending",
+    "updated": null,
+    "details": null
+  },
+  "master": {
+    "status": "pending",
+    "updated": null,
+    "details": null
+  },
+  "grandmaster": {
+    "status": "pending",
+    "updated": null,
+    "details": null
+  },
+  "discussion_starter": {
+    "status": "pending",
+    "updated": null,
+    "details": null
+  },
+  "commentator": {
+    "status": "pending",
+    "updated": null,
+    "details": null
+  },
+  "voter": {
+    "status": "pending",
+    "updated": null,
+    "details": null
+  },
+  "sharer": {
+    "status": "pending",
+    "updated": null,
+    "details": null
+  },
+  "course_completer": {
+    "status": "pending",
+    "updated": null,
+    "details": null
+  },
+  "certificate_earner": {
+    "status": "pending",
+    "updated": null,
+    "details": null
+  },
+  "competition_medal": {
+    "status": "pending",
+    "updated": null,
+    "details": null
+  },
+  "dataset_medal": {
+    "status": "pending",
+    "updated": null,
+    "details": null
+  },
+  "notebook_medal": {
+    "status": "pending",
+    "updated": null,
+    "details": null
+  },
+  "team_player": {
+    "status": "pending",
+    "updated": null,
+    "details": null
+  },
+  "competition_host": {
+    "status": "pending",
+    "updated": null,
+    "details": null
+  },
+  "simulations_competitor": {
+    "status": "pending",
+    "updated": null,
+    "details": null
+  },
+  "featured_competitor": {
+    "status": "pending",
+    "updated": null,
+    "details": null
+  }
+}

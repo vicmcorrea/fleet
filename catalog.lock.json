@@ -1,0 +1,1446 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-26T18:04:03.628Z",
+  "skills": [
+    {
+      "name": "agents-sdk",
+      "mode": "explicit",
+      "path": "skills/agents-sdk",
+      "sha256": "4b3326cedfa151bb632a1897fcfe7ad047b725be81679258e672956d1cd5dbbf"
+    },
+    {
+      "name": "application-security",
+      "mode": "explicit",
+      "path": "skills/application-security",
+      "sha256": "b60342e716ee164638049969e6dca2565672e7e0ba14b9101cb98541016d75a6"
+    },
+    {
+      "name": "article-writing",
+      "mode": "explicit",
+      "path": "skills/article-writing",
+      "sha256": "0cbe9c70fa43eafd459e83fa24cafe4bf8cf5d7ef696e0cb7464fe11e96aad0c"
+    },
+    {
+      "name": "async-python-patterns",
+      "mode": "implicit",
+      "path": "skills/async-python-patterns",
+      "sha256": "84bbb35162089c6a60db4c93f4f0e311c562036615e18f36916391629c64c68f"
+    },
+    {
+      "name": "autogpt-agents",
+      "mode": "explicit",
+      "path": "skills/autogpt-agents",
+      "sha256": "397993b258bcf42b43fd8374d7e1d5602336ab3c56e765be9c6f22c1d2cf148a"
+    },
+    {
+      "name": "awq-quantization",
+      "mode": "explicit",
+      "path": "skills/awq-quantization",
+      "sha256": "76eb4829b904655f4b66e50b702e6d6b5f4101065cea5b98b1e3ff071a0aaf95"
+    },
+    {
+      "name": "aws-billing-and-cost-management",
+      "mode": "explicit",
+      "path": "skills/aws-billing-and-cost-management",
+      "sha256": "ee88e6f7ced69498826c28a77092d8f2c41e0453dbad9ff41421dc3cda22b2c7"
+    },
+    {
+      "name": "aws-cdk-python-setup",
+      "mode": "explicit",
+      "path": "skills/aws-cdk-python-setup",
+      "sha256": "4be6e92e659acc42412f90da07dc95357c76926e098150237a13cd3f7fe65859"
+    },
+    {
+      "name": "aws-cloudformation",
+      "mode": "explicit",
+      "path": "skills/aws-cloudformation",
+      "sha256": "e5e57589a8cfc045d4c23093da17139dcc19eb492faaebad6a5c28e45c224c27"
+    },
+    {
+      "name": "aws-containers",
+      "mode": "explicit",
+      "path": "skills/aws-containers",
+      "sha256": "fa6b2ae2746de564426ab43ab32e285bd99021698908eb90776117f7ade54064"
+    },
+    {
+      "name": "aws-diagrams",
+      "mode": "explicit",
+      "path": "skills/aws-diagrams",
+      "sha256": "87dd2de96516e6f1c5f096e024f2582f64e61baa1adce4549dddba742dbdae6e"
+    },
+    {
+      "name": "aws-iam",
+      "mode": "explicit",
+      "path": "skills/aws-iam",
+      "sha256": "837d5f46d83dfad5dfd817925c47047f1362ebaba5b98ffbea3091cd65fe9cda"
+    },
+    {
+      "name": "aws-messaging-and-streaming",
+      "mode": "explicit",
+      "path": "skills/aws-messaging-and-streaming",
+      "sha256": "47b0cf5eae58ae7c9290f7169be2b965fa31a8cde8805128ede1900f4e7915ae"
+    },
+    {
+      "name": "aws-observability",
+      "mode": "explicit",
+      "path": "skills/aws-observability",
+      "sha256": "078f3fd0652795fa51ba95b1395db17a944303129c974dbe2d3bc2bb9d862ee5"
+    },
+    {
+      "name": "aws-rds",
+      "mode": "explicit",
+      "path": "skills/aws-rds",
+      "sha256": "b1de00d1875c1e2486746bfb15f69ba9c3a4a0400b5cd59e3ea148f99cd0f289"
+    },
+    {
+      "name": "aws-sdk-python-usage",
+      "mode": "explicit",
+      "path": "skills/aws-sdk-python-usage",
+      "sha256": "215dfbee4e1240edb00a6859b789c4a40a8868495d356168fa9279a13fcd9954"
+    },
+    {
+      "name": "axolotl",
+      "mode": "explicit",
+      "path": "skills/axolotl",
+      "sha256": "7886ca0dc0623658b300b3140a7c6fa1de6a111e88f06d54bd123a44474db26b"
+    },
+    {
+      "name": "better-icons",
+      "mode": "implicit",
+      "path": "skills/better-icons",
+      "sha256": "49f4a5cd8b89e988bc751bc0f720ab4fcf4260d47c1a8d8d53e1e5bbef11e773"
+    },
+    {
+      "name": "bigquery-patent-search",
+      "mode": "explicit",
+      "path": "skills/bigquery-patent-search",
+      "sha256": "5f7f8bfad4c42d71ce9906c92240c90cae1d3da82859450851c6ff540ed12391"
+    },
+    {
+      "name": "biome",
+      "mode": "implicit",
+      "path": "skills/biome",
+      "sha256": "7a184e80f5b7cf9d140050de27c30e26bbc8b9182b9b0fe825ea043d3fef63c7"
+    },
+    {
+      "name": "bullmq-specialist",
+      "mode": "implicit",
+      "path": "skills/bullmq-specialist",
+      "sha256": "cdc34b311c65f313878ab3a7ab879b1c704d853f757b8bb0ee808ac2d0d694c6"
+    },
+    {
+      "name": "bun-development",
+      "mode": "explicit",
+      "path": "skills/bun-development",
+      "sha256": "d35583a31e28b3df4d4341e4346a9626ca59c3d6bcdd8e4396ed209e41d61ab3"
+    },
+    {
+      "name": "chroma",
+      "mode": "explicit",
+      "path": "skills/chroma",
+      "sha256": "99530571a259886b1dc1d78c51ffc49e8b4e1f2db7507191cbb9470cafa97f12"
+    },
+    {
+      "name": "citation-management",
+      "mode": "explicit",
+      "path": "skills/citation-management",
+      "sha256": "916a8edf87ba741c035844be2c40323572be4d6960488ec80afd270ce673f7a2"
+    },
+    {
+      "name": "clerk-backend-api",
+      "mode": "explicit",
+      "path": "skills/clerk-backend-api",
+      "sha256": "158a02cfa9532ac5654f10ef0da769ea97cc151c0bcc951baa979128d0d86bc1"
+    },
+    {
+      "name": "clerk-orgs",
+      "mode": "explicit",
+      "path": "skills/clerk-orgs",
+      "sha256": "74d77db630c0fcd4cba0660adb249a0500e51eea15568bb515fe2f16f8a68835"
+    },
+    {
+      "name": "clerk-setup",
+      "mode": "explicit",
+      "path": "skills/clerk-setup",
+      "sha256": "2a0235ba2b8dad5c4225a8e972cb474661723a8c8551c61deed293e4f64912a6"
+    },
+    {
+      "name": "clerk-tanstack-patterns",
+      "mode": "explicit",
+      "path": "skills/clerk-tanstack-patterns",
+      "sha256": "596c62188d5ba8dce7bb0260ed7a312197e286c2619ea50aa14c6d9822880f44"
+    },
+    {
+      "name": "clerk-testing",
+      "mode": "explicit",
+      "path": "skills/clerk-testing",
+      "sha256": "4efa5604034ea693f4a22b996b3ad52857ab16dce530677c16c0d0224be49b78"
+    },
+    {
+      "name": "clerk-webhooks",
+      "mode": "explicit",
+      "path": "skills/clerk-webhooks",
+      "sha256": "4ecf5ea30128cc36afcd7f6fbd206a3a3b347fc93a707ab9c0f33395fa47848f"
+    },
+    {
+      "name": "clerk",
+      "mode": "implicit",
+      "path": "skills/clerk",
+      "sha256": "8a97ff37c28259242ce545d77db2d64a1ed6f5e5c9e6e044546f23685753f57d"
+    },
+    {
+      "name": "cli-developer",
+      "mode": "explicit",
+      "path": "skills/cli-developer",
+      "sha256": "e1da8a5a03578e412e40385e014423e18661e61c19cf85f90534144eb4e77863"
+    },
+    {
+      "name": "cloudflare-email-service",
+      "mode": "explicit",
+      "path": "skills/cloudflare-email-service",
+      "sha256": "8d046e852aaef7a690dc60fdf36c7d034e836fe3003ea4d2305e27dd2cb2c67f"
+    },
+    {
+      "name": "cloudflare-one-migrations",
+      "mode": "explicit",
+      "path": "skills/cloudflare-one-migrations",
+      "sha256": "35965a19b1b119e6a62c83770c964aba8d6532a32601c92008e068a5cc91dfaf"
+    },
+    {
+      "name": "cloudflare-one",
+      "mode": "explicit",
+      "path": "skills/cloudflare-one",
+      "sha256": "18c4d7cc770520d4e89b61f095187f5982d5c1c4b91d6dd932aa9410a7ff4e84"
+    },
+    {
+      "name": "cloudflare",
+      "mode": "implicit",
+      "path": "skills/cloudflare",
+      "sha256": "faf7a161acdce54c472503decc75dee14f04cb2a94016f4f951406d501f9137f"
+    },
+    {
+      "name": "convex-create-component",
+      "mode": "explicit",
+      "path": "skills/convex-create-component",
+      "sha256": "4e1504ee62ce20f7df8b26fdd7c97499bd2aa243d474f90dec22d067d4abfcf3"
+    },
+    {
+      "name": "convex-migration-helper",
+      "mode": "explicit",
+      "path": "skills/convex-migration-helper",
+      "sha256": "08a3716c5861c3eab64f13670faa3a889c93011e8e30e1e2b8f877febaf2594c"
+    },
+    {
+      "name": "convex-performance-audit",
+      "mode": "explicit",
+      "path": "skills/convex-performance-audit",
+      "sha256": "8ff4952136db14dd07a5a56c5b0670c1097e999105bde083195d5bc51cfdcfa8"
+    },
+    {
+      "name": "convex-quickstart",
+      "mode": "explicit",
+      "path": "skills/convex-quickstart",
+      "sha256": "2e52c32120a45fbabcd562d8d3c3370b74f48a9ef35c1bdc6ae6e037a5e48350"
+    },
+    {
+      "name": "convex-setup-auth",
+      "mode": "explicit",
+      "path": "skills/convex-setup-auth",
+      "sha256": "51f20de1b3ee07d96cc5e221f8d1c7a96455a503d3d37e9a5b63e0c54e354f60"
+    },
+    {
+      "name": "copywriting",
+      "mode": "explicit",
+      "path": "skills/copywriting",
+      "sha256": "3a4d9a4374a3263336cd374cdd9b265bbdba307fbb2c5c408048f98707df4e2c"
+    },
+    {
+      "name": "cpp-pro",
+      "mode": "explicit",
+      "path": "skills/cpp-pro",
+      "sha256": "030e03d1cf106e561069aa1b1c1617d36b1a4808253d1334c236c67ed741c59c"
+    },
+    {
+      "name": "create-architectural-decision-record",
+      "mode": "explicit",
+      "path": "skills/create-architectural-decision-record",
+      "sha256": "ca61cd7c30e16d621111b0d300eed37d2af2009963b36e898816ac8a84303dbb"
+    },
+    {
+      "name": "crewai-multi-agent",
+      "mode": "explicit",
+      "path": "skills/crewai-multi-agent",
+      "sha256": "31fb5fa36b43de45fb891a5e51d9c98fe2f87ed99e77a93627988fc96cfdb483"
+    },
+    {
+      "name": "data-engineer",
+      "mode": "explicit",
+      "path": "skills/data-engineer",
+      "sha256": "ef4d913b543b9f1967edd5de575a7ee3983a9b34c4f83a970bc83ad2345f8797"
+    },
+    {
+      "name": "data-sql-optimization",
+      "mode": "explicit",
+      "path": "skills/data-sql-optimization",
+      "sha256": "6e0fd9c38ec18d9080cb31513e4ef0e662dfbdb4635a7f3fb2bfafae8bfb0591"
+    },
+    {
+      "name": "database",
+      "mode": "explicit",
+      "path": "skills/database",
+      "sha256": "c0234d877aaf37083a7b965347355067960cbae2fed6c3c4d02d831b4946107d"
+    },
+    {
+      "name": "dataverse-python-advanced-patterns",
+      "mode": "explicit",
+      "path": "skills/dataverse-python-advanced-patterns",
+      "sha256": "4fe8cb802dd84bc8be99e50af987e9096b065dd5abe7635a5c6ccbc45a8a6103"
+    },
+    {
+      "name": "deepspeed",
+      "mode": "explicit",
+      "path": "skills/deepspeed",
+      "sha256": "4e404731a7c784687eb260a300035f6d2f620c7723939382504f855a16a6aacd"
+    },
+    {
+      "name": "dependabot",
+      "mode": "implicit",
+      "path": "skills/dependabot",
+      "sha256": "e86847d378655798190e4d244aad508d4cc1148160b85dc93d748a0f93be96b0"
+    },
+    {
+      "name": "dependency-upgrade",
+      "mode": "implicit",
+      "path": "skills/dependency-upgrade",
+      "sha256": "ddbe499919897395ed0f936f12a56c890ce6112ce25630605140ce42e2c25701"
+    },
+    {
+      "name": "developing-with-streamlit",
+      "mode": "explicit",
+      "path": "skills/developing-with-streamlit",
+      "sha256": "bcd4d3150f1b293d0f5ea0657c964e78748d9e9adbd1c4d4be15c6c464d94da1"
+    },
+    {
+      "name": "building-streamlit-chat-ui",
+      "mode": "explicit",
+      "path": "skills/developing-with-streamlit/skills/building-streamlit-chat-ui",
+      "sha256": "91b4f6ebea77c7bab502c31ed790f4b6270a23f7834cb7e52c9a270496e26ade"
+    },
+    {
+      "name": "building-streamlit-custom-components-v2",
+      "mode": "explicit",
+      "path": "skills/developing-with-streamlit/skills/building-streamlit-custom-components-v2",
+      "sha256": "dcdd0f6fbaf3b268fcd3ad36c69639fe1933abb91f3d3f2544917be841ceeaf8"
+    },
+    {
+      "name": "building-streamlit-dashboards",
+      "mode": "explicit",
+      "path": "skills/developing-with-streamlit/skills/building-streamlit-dashboards",
+      "sha256": "da11f9481ecd3633d28b69a372764e630918cb1e17b061b8216bd4e0fac729a2"
+    },
+    {
+      "name": "building-streamlit-multipage-apps",
+      "mode": "explicit",
+      "path": "skills/developing-with-streamlit/skills/building-streamlit-multipage-apps",
+      "sha256": "8231a74ed22db9e1d03af60677dec8f18e6b4939f7716612cfda9d3d5636e12b"
+    },
+    {
+      "name": "choosing-streamlit-selection-widgets",
+      "mode": "explicit",
+      "path": "skills/developing-with-streamlit/skills/choosing-streamlit-selection-widgets",
+      "sha256": "5ab41e0297b71a1bd3c77dab4bff85cddc18f27090c345c4b9dabdf4f53232d8"
+    },
+    {
+      "name": "connecting-streamlit-to-snowflake",
+      "mode": "explicit",
+      "path": "skills/developing-with-streamlit/skills/connecting-streamlit-to-snowflake",
+      "sha256": "d2197dc8bc982981a8f516f696602cc2af52ff8e556f86f8ba2c1f47339239be"
+    },
+    {
+      "name": "creating-streamlit-themes",
+      "mode": "explicit",
+      "path": "skills/developing-with-streamlit/skills/creating-streamlit-themes",
+      "sha256": "f7a7f34e7b9e4e6c9ff941b79803f0795c3f75dc81158c6b9f69a0d2a05ca0a9"
+    },
+    {
+      "name": "displaying-streamlit-data",
+      "mode": "explicit",
+      "path": "skills/developing-with-streamlit/skills/displaying-streamlit-data",
+      "sha256": "9e721ca23ad4034664529c8bd01a828bb492470d8cc71a29a3e7e74b9500abf0"
+    },
+    {
+      "name": "improving-streamlit-design",
+      "mode": "explicit",
+      "path": "skills/developing-with-streamlit/skills/improving-streamlit-design",
+      "sha256": "b724240b46e45360142772484b19428e226aca443352e7756b1e8cda89b40bb0"
+    },
+    {
+      "name": "optimizing-streamlit-performance",
+      "mode": "explicit",
+      "path": "skills/developing-with-streamlit/skills/optimizing-streamlit-performance",
+      "sha256": "df83d2ba466b8b308e879a9cf294244f57b5e736140fc9191b401b56c175a8e7"
+    },
+    {
+      "name": "organizing-streamlit-code",
+      "mode": "explicit",
+      "path": "skills/developing-with-streamlit/skills/organizing-streamlit-code",
+      "sha256": "5d9cbd2176528cddff8cb681e1c63f8e56fb1f8749b31bbdb01d3c7ec2ecc318"
+    },
+    {
+      "name": "setting-up-streamlit-environment",
+      "mode": "explicit",
+      "path": "skills/developing-with-streamlit/skills/setting-up-streamlit-environment",
+      "sha256": "edb6be0ef76679aadfd482c1906bd5848799589f14f4d0f1f4fa94aedf70e641"
+    },
+    {
+      "name": "using-streamlit-cli",
+      "mode": "explicit",
+      "path": "skills/developing-with-streamlit/skills/using-streamlit-cli",
+      "sha256": "47b9aa23e89b55bd24e33004522eb75f96eed7962d24818066a4d0c56806d450"
+    },
+    {
+      "name": "using-streamlit-custom-components",
+      "mode": "explicit",
+      "path": "skills/developing-with-streamlit/skills/using-streamlit-custom-components",
+      "sha256": "5359636e62bea3c73e4ec2aac2bc8f624f7bd4eb9853bd70a1f5e268eaccf9dd"
+    },
+    {
+      "name": "using-streamlit-layouts",
+      "mode": "explicit",
+      "path": "skills/developing-with-streamlit/skills/using-streamlit-layouts",
+      "sha256": "bc23057789c72514fdddf39d56493a694ab979eccace503e1980529094f6966b"
+    },
+    {
+      "name": "using-streamlit-markdown",
+      "mode": "explicit",
+      "path": "skills/developing-with-streamlit/skills/using-streamlit-markdown",
+      "sha256": "c64d19f40857ff3433a340837ba91122e54854ae500667fb026a1393a27ff6fb"
+    },
+    {
+      "name": "using-streamlit-session-state",
+      "mode": "explicit",
+      "path": "skills/developing-with-streamlit/skills/using-streamlit-session-state",
+      "sha256": "c0a99bd9df40cb09d497a7affc43bbec925a10c8943c1508bd6fad6fbe6e2be8"
+    },
+    {
+      "name": "distributed-llm-pretraining-torchtitan",
+      "mode": "explicit",
+      "path": "skills/distributed-llm-pretraining-torchtitan",
+      "sha256": "18f647bc6e6311dd6a53b6e9ba7f34cc32d43c4a9c44d8e203b63167255ec5ed"
+    },
+    {
+      "name": "docx",
+      "mode": "explicit",
+      "path": "skills/docx",
+      "sha256": "040276a56360ded7bc0088d3c105565f05ef1098b75e5b98b16f7e33f439368b"
+    },
+    {
+      "name": "drizzle-orm",
+      "mode": "implicit",
+      "path": "skills/drizzle-orm",
+      "sha256": "8a1191c3075c07587c6264a7b99567983bbca7224a25763cace2fcd0e2672755"
+    },
+    {
+      "name": "dspy",
+      "mode": "explicit",
+      "path": "skills/dspy",
+      "sha256": "19f99a3e46c3b0114cc31764f08539ff1f9c57502792d7db3df8e97f4450e537"
+    },
+    {
+      "name": "durable-objects",
+      "mode": "explicit",
+      "path": "skills/durable-objects",
+      "sha256": "3d0b85000142bfef069836caa6f6e7f8ccd06041fd53ea6e5499d84e64b9ef4d"
+    },
+    {
+      "name": "epc-search",
+      "mode": "explicit",
+      "path": "skills/epc-search",
+      "sha256": "03e522f4122e78f8dd4ec67c1c62afe27f04b1e616ad7f484a7cf2e0b267fa07"
+    },
+    {
+      "name": "epo-patent-search",
+      "mode": "explicit",
+      "path": "skills/epo-patent-search",
+      "sha256": "f79d8f69443436cbc4985b8bfa0c718011dc2734b6cd0133132d3628a72dd889"
+    },
+    {
+      "name": "evaluating-code-models",
+      "mode": "explicit",
+      "path": "skills/evaluating-code-models",
+      "sha256": "d330c1b0825f30ca75723dff47a477410a3f0377f491c1303c0d149be6470838"
+    },
+    {
+      "name": "evaluating-llms-harness",
+      "mode": "explicit",
+      "path": "skills/evaluating-llms-harness",
+      "sha256": "8caa9f1dcb8b723cd9ffc48d6c908ddf999d936b287580e01c325386b2639a07"
+    },
+    {
+      "name": "faiss",
+      "mode": "explicit",
+      "path": "skills/faiss",
+      "sha256": "d6464aa898eb185c41bc44a049ba62ef370cd121362d6b5a8dfae01c1be9778e"
+    },
+    {
+      "name": "fastapi-templates",
+      "mode": "explicit",
+      "path": "skills/fastapi-templates",
+      "sha256": "c4ddf45919c2720f804ff5a855169ada874e55d41c691fccb2d54fc3437500da"
+    },
+    {
+      "name": "fastapi",
+      "mode": "implicit",
+      "path": "skills/fastapi",
+      "sha256": "89e3a08177ab7f5a9d61230a9ce131bda537ae0e0cba5f5ef9d8386f7c94c247"
+    },
+    {
+      "name": "favicon-gen",
+      "mode": "explicit",
+      "path": "skills/favicon-gen",
+      "sha256": "511ec6fd6db85b5120b655aada7bcba6b297fc0fb2f663d691d884db12c9590d"
+    },
+    {
+      "name": "ffmpeg-video-editor",
+      "mode": "explicit",
+      "path": "skills/ffmpeg-video-editor",
+      "sha256": "a0020fd01f61543f9f6e79cb5507b728b1d39667277b74b37d1f6897ebc4c8b8"
+    },
+    {
+      "name": "find-skills",
+      "mode": "explicit",
+      "path": "skills/find-skills",
+      "sha256": "57d913f908a07f0415231359a0cf1385902696d19cbe9b7c002c806dd8e0215a"
+    },
+    {
+      "name": "fine-tuning-with-trl",
+      "mode": "explicit",
+      "path": "skills/fine-tuning-with-trl",
+      "sha256": "a40f552a31951e95ad05cfa49588962168339a8cf52db5cd2b84e3afb12a3f4a"
+    },
+    {
+      "name": "flash",
+      "mode": "explicit",
+      "path": "skills/flash",
+      "sha256": "224edb0942d998f40b5b12f6462267ed7d5ad7366997b38da0cb673259a08229"
+    },
+    {
+      "name": "frontend-slides",
+      "mode": "explicit",
+      "path": "skills/frontend-slides",
+      "sha256": "11e2f22bd0df5d2ce3389e21f86d1a90fdd1f341ad16b4f5febc92339d3ad222"
+    },
+    {
+      "name": "gguf-quantization",
+      "mode": "explicit",
+      "path": "skills/gguf-quantization",
+      "sha256": "ddd11a6274c08467352fb2f922c995abb379a9ad67c8ee2a1d0b23e88c9cf0ef"
+    },
+    {
+      "name": "github-actions-docs",
+      "mode": "implicit",
+      "path": "skills/github-actions-docs",
+      "sha256": "0af02c6f5df7345e984a2fc1d239da6c502c805d49f4fb148c9f7ed71135a6a3"
+    },
+    {
+      "name": "golang-pro",
+      "mode": "explicit",
+      "path": "skills/golang-pro",
+      "sha256": "785d1dce93f2c6e7401ceb70e3c8f0602cef22a198f00ab9816f3bec28788810"
+    },
+    {
+      "name": "gptq",
+      "mode": "explicit",
+      "path": "skills/gptq",
+      "sha256": "1efaa95883241bd101d8fc18d30c4a1f0abadbb0de03f4563bbed11252d3cd6f"
+    },
+    {
+      "name": "grill-me",
+      "mode": "explicit",
+      "path": "skills/grill-me",
+      "sha256": "a1d3c8b394578d2ba82f2671b3f5a1d9d826545ef14fca3d5176c084225f61bc"
+    },
+    {
+      "name": "grpo-rl-training",
+      "mode": "explicit",
+      "path": "skills/grpo-rl-training",
+      "sha256": "982f92050fb742a4f5ad294416e8506dfd7d4ac603d83b7623569319a485360f"
+    },
+    {
+      "name": "guidance",
+      "mode": "explicit",
+      "path": "skills/guidance",
+      "sha256": "d802e09e7fb6fab871f559cde0b02e55f132c1634664ffe6b42eb7eacd14f75b"
+    },
+    {
+      "name": "hqq-quantization",
+      "mode": "explicit",
+      "path": "skills/hqq-quantization",
+      "sha256": "928a21c84128c557109432ad7cec97ecf754457aa167d7854087a9b61391adc5"
+    },
+    {
+      "name": "htmx-expert",
+      "mode": "explicit",
+      "path": "skills/htmx-expert",
+      "sha256": "4183f9bb5701e3ba201717066e991ef25512b4848a5fab166bee3143f6948f78"
+    },
+    {
+      "name": "huggingface-accelerate",
+      "mode": "explicit",
+      "path": "skills/huggingface-accelerate",
+      "sha256": "b33566d8963c1459b185e415ec7966a5a4424475cd1603cdacf862e7d4fd4a8a"
+    },
+    {
+      "name": "huggingface-tokenizers",
+      "mode": "explicit",
+      "path": "skills/huggingface-tokenizers",
+      "sha256": "150ccfaf5c2a92eb73cc54fbe4071d107ef5d1ff293983492502702557e7200a"
+    },
+    {
+      "name": "implementing-llms-litgpt",
+      "mode": "explicit",
+      "path": "skills/implementing-llms-litgpt",
+      "sha256": "ba40c1bc7cdbe234eb1b812345d18dc3b6b5ed4f0faa64849240dceec1054ae4"
+    },
+    {
+      "name": "instructor",
+      "mode": "explicit",
+      "path": "skills/instructor",
+      "sha256": "3838b009cc0c99bc3673ca8155dad8f45bf41ca4682d9d342f9f97dec3986cde"
+    },
+    {
+      "name": "interactive-dashboard-builder",
+      "mode": "explicit",
+      "path": "skills/interactive-dashboard-builder",
+      "sha256": "39294e27820de9df4d211e46bad2c14d385307d858b5013cac559e3091754cd4"
+    },
+    {
+      "name": "just-scrape",
+      "mode": "explicit",
+      "path": "skills/just-scrape",
+      "sha256": "6436bb7579461ac800749662f251ba17c1ca24f869fd4c38d6606848ffc2f9c6"
+    },
+    {
+      "name": "kaggle-learner",
+      "mode": "explicit",
+      "path": "skills/kaggle-learner",
+      "sha256": "df150da709bdd9838b054fe30370fa7317aea25c38f55f883051b04bfc15ea8f"
+    },
+    {
+      "name": "kaggle",
+      "mode": "explicit",
+      "path": "skills/kaggle",
+      "sha256": "168eca3cb745eeae45a8d6bd13e6556b01c08de4e10ce333e97fa89560451c82"
+    },
+    {
+      "name": "knowledge-distillation",
+      "mode": "explicit",
+      "path": "skills/knowledge-distillation",
+      "sha256": "6f860724c40ad767f30ef3cb0a21ad187f81883b614b7e1f39a86eda96ad4e76"
+    },
+    {
+      "name": "lambda-labs-gpu-cloud",
+      "mode": "explicit",
+      "path": "skills/lambda-labs-gpu-cloud",
+      "sha256": "01be0811af77d6a30e94b3d8180dd7d1d9da8a69dbb8ccc1f46321dfdf0eaba5"
+    },
+    {
+      "name": "langchain",
+      "mode": "explicit",
+      "path": "skills/langchain",
+      "sha256": "f669bf4b39c628b59982dc8897b09203d15f0abcd99996a691409d500262319a"
+    },
+    {
+      "name": "langsmith-observability",
+      "mode": "explicit",
+      "path": "skills/langsmith-observability",
+      "sha256": "fe5a1be4ccbd86880d5af591671826cac746ed40b68f36f97b5c3824fd7418b4"
+    },
+    {
+      "name": "latex-document-skill",
+      "mode": "explicit",
+      "path": "skills/latex-document-skill",
+      "sha256": "0fdc423410d8110891cdeb52a419f28257d58b2389c09bdb5a7fb2e94cf01387"
+    },
+    {
+      "name": "latex-formatting",
+      "mode": "explicit",
+      "path": "skills/latex-formatting",
+      "sha256": "7195a5da445b67d230c6751d356cc3960ae80b3b165c511a4c0dcb3895a55804"
+    },
+    {
+      "name": "latex-paper-en",
+      "mode": "explicit",
+      "path": "skills/latex-paper-en",
+      "sha256": "3af3afcb19d56932f8de4ba0ecd3346c99f325c43bdaec5e66b129d7b67942c0"
+    },
+    {
+      "name": "latex-posters",
+      "mode": "explicit",
+      "path": "skills/latex-posters",
+      "sha256": "c3766429eec788ee294b4ac08908e097f7b2c15cf33b3d15caa962dffa755d7a"
+    },
+    {
+      "name": "llama-cpp",
+      "mode": "explicit",
+      "path": "skills/llama-cpp",
+      "sha256": "e1d1de80185d6a69b21a426d289e8d180822824080b10a4b12712b8b20fc7327"
+    },
+    {
+      "name": "llama-factory",
+      "mode": "explicit",
+      "path": "skills/llama-factory",
+      "sha256": "ac7b1f229dff6dc53eda2794a8b2ec54c328872dbce94f0f8b79959cf109da5d"
+    },
+    {
+      "name": "llamaindex",
+      "mode": "explicit",
+      "path": "skills/llamaindex",
+      "sha256": "779a91eb0f0634edbd897c27f3a2bd05c4130c6efcb2f4c07f38775a4bee20ba"
+    },
+    {
+      "name": "long-context",
+      "mode": "explicit",
+      "path": "skills/long-context",
+      "sha256": "e3b56beaa58fef4d921f2be3bfc41a0ec0be66cfbdad61c98c5978f11030492b"
+    },
+    {
+      "name": "mamba-architecture",
+      "mode": "explicit",
+      "path": "skills/mamba-architecture",
+      "sha256": "9e2e2d7258a1e21fc35f583bff691e2992cac43886088af7bedd6987b9932ab0"
+    },
+    {
+      "name": "marp-slide",
+      "mode": "explicit",
+      "path": "skills/marp-slide",
+      "sha256": "cbb6de9a25fdad5715f15b301bc56ed4c813a9c238d485d38fbaf51520d6b2f9"
+    },
+    {
+      "name": "miles-rl-training",
+      "mode": "explicit",
+      "path": "skills/miles-rl-training",
+      "sha256": "a8f370ffac0d305709a415b36ac2bd216380bbfc949c3b73b140a584ffa994c4"
+    },
+    {
+      "name": "mintlify-api",
+      "mode": "explicit",
+      "path": "skills/mintlify-api",
+      "sha256": "9d1624b41982263ad3e7eec4e7ce836a2f7b6a31034cd380cb2f3dafff379ba2"
+    },
+    {
+      "name": "mintlify",
+      "mode": "explicit",
+      "path": "skills/mintlify",
+      "sha256": "89d5136994494f9a72390e94a4da6389f5156751b7c3c541504bf7f9c1ab2578"
+    },
+    {
+      "name": "ml-paper-writing",
+      "mode": "explicit",
+      "path": "skills/ml-paper-writing",
+      "sha256": "80886966781b4a9b3ac37f4864c5f76c33547f4a3f79fa4323607da07a2165a4"
+    },
+    {
+      "name": "academic-plotting",
+      "mode": "explicit",
+      "path": "skills/ml-paper-writing/academic-plotting",
+      "sha256": "1e299609dec31d4d54a2e39ac8c418615c8ea882b3f9ab0a6afde800625bd21a"
+    },
+    {
+      "name": "ml-pipeline-workflow",
+      "mode": "explicit",
+      "path": "skills/ml-pipeline-workflow",
+      "sha256": "ee480fa8b1eaa6b807e2f8e46fc34c34a2f47208554ecdf7c85e91a92d4192e0"
+    },
+    {
+      "name": "mlflow",
+      "mode": "explicit",
+      "path": "skills/mlflow",
+      "sha256": "9eb1746c466ac0c426aed0dd96d5b04551e46c1456a32ca903a863f36e915e66"
+    },
+    {
+      "name": "modal-serverless-gpu",
+      "mode": "explicit",
+      "path": "skills/modal-serverless-gpu",
+      "sha256": "babace230687ff47bd956a7ff972177419f32a1f23c0715760c03fb979c180be"
+    },
+    {
+      "name": "model-merging",
+      "mode": "explicit",
+      "path": "skills/model-merging",
+      "sha256": "f0583ae37e3dd7e3001d05594859d6ac1871c0a855b08e75f5ad3811218250d3"
+    },
+    {
+      "name": "model-pruning",
+      "mode": "explicit",
+      "path": "skills/model-pruning",
+      "sha256": "ef1d64157432eb1eff6955706bf5b1efdd0191a9bba30e9aab32dd87e9584f7e"
+    },
+    {
+      "name": "moe-training",
+      "mode": "explicit",
+      "path": "skills/moe-training",
+      "sha256": "a43f6c4a6183ae1b400eeba956ba94e168a7097a3e98ae03253e763351d79f16"
+    },
+    {
+      "name": "monorepo-management",
+      "mode": "implicit",
+      "path": "skills/monorepo-management",
+      "sha256": "a3f91675e5df994040e7871c2323bd33ccdb000dae4442a978ca899bda486efd"
+    },
+    {
+      "name": "mpep-search",
+      "mode": "explicit",
+      "path": "skills/mpep-search",
+      "sha256": "40e1b39b6b3c54895f4c79206d099d217adc141516683b33dc66baa2a6ee9443"
+    },
+    {
+      "name": "nanogpt",
+      "mode": "explicit",
+      "path": "skills/nanogpt",
+      "sha256": "c1af51e1a377cf6730fcb7b1f65dfa8863865c0474eb55ff3ff8f36b0ac2d9a0"
+    },
+    {
+      "name": "nemo-curator",
+      "mode": "explicit",
+      "path": "skills/nemo-curator",
+      "sha256": "675e3c513c778f3f0fc9953a32ba3b58a17ed9f50c61982d65d9e90d55391b74"
+    },
+    {
+      "name": "nemo-evaluator-sdk",
+      "mode": "explicit",
+      "path": "skills/nemo-evaluator-sdk",
+      "sha256": "ab33a682866c271d28119ecd9fbf17afd94469634d2f840395b24ac4fc3c2dcf"
+    },
+    {
+      "name": "nodejs-backend-patterns",
+      "mode": "implicit",
+      "path": "skills/nodejs-backend-patterns",
+      "sha256": "4ecd034907b58b49085e02b7f5897a176b9fa18ca40a5b2a9fbe3d3a69deb88c"
+    },
+    {
+      "name": "obsidian-automation",
+      "mode": "explicit",
+      "path": "skills/obsidian-automation",
+      "sha256": "241319e4912ffca85b79c167bc6b9791ce15bbebd49e61aa0ddc886d19a58068"
+    },
+    {
+      "name": "obsidian-bases",
+      "mode": "explicit",
+      "path": "skills/obsidian-bases",
+      "sha256": "87bb2cf3fe01297c435213b07066dde1e1bba4618ea46806a538ee567c7670d6"
+    },
+    {
+      "name": "obsidian-cli",
+      "mode": "explicit",
+      "path": "skills/obsidian-cli",
+      "sha256": "789ca5855e51e64ebd9a2a9337b5dcb99c5c3e8eccf4e9d953d4f5b59f117556"
+    },
+    {
+      "name": "obsidian-clipper-template-creator",
+      "mode": "explicit",
+      "path": "skills/obsidian-clipper-template-creator",
+      "sha256": "655a65ce840b6cade5eee9e06cf356bff979bd3b50e93d7ed6f615ddd7212b7f"
+    },
+    {
+      "name": "obsidian-markdown",
+      "mode": "explicit",
+      "path": "skills/obsidian-markdown",
+      "sha256": "369ec83e8c14fd2accb26ad58da1811bdd56fddba3f2309134db7c8dad9e3d29"
+    },
+    {
+      "name": "openrlhf-training",
+      "mode": "explicit",
+      "path": "skills/openrlhf-training",
+      "sha256": "224d02e0075a03a0e98d39530490d809a05c12f2323dd688137b217ab4556709"
+    },
+    {
+      "name": "openrouter-images",
+      "mode": "explicit",
+      "path": "skills/openrouter-images",
+      "sha256": "c6a64ef1e1c772edbddacb29d1095da41e2ac3cd4e2281a5e73efbebab53986b"
+    },
+    {
+      "name": "optimizing-attention-flash",
+      "mode": "explicit",
+      "path": "skills/optimizing-attention-flash",
+      "sha256": "7f6936e93a1cfb5f6ba500ac7133ead6513da894a67cc8f2f4d788ae26015439"
+    },
+    {
+      "name": "outlines",
+      "mode": "explicit",
+      "path": "skills/outlines",
+      "sha256": "d1c0f7dd89b5070ae35e84293526e24f02b7e4f4159e12a30eca354174f2eafc"
+    },
+    {
+      "name": "pandas-data-analysis",
+      "mode": "explicit",
+      "path": "skills/pandas-data-analysis",
+      "sha256": "d3e81e3b115f5cb25c295a68d8fc48e4a7261926a64dcf012b599224726eaaef"
+    },
+    {
+      "name": "patent-application-creator",
+      "mode": "explicit",
+      "path": "skills/patent-application-creator",
+      "sha256": "fd56987b2f1e995b18a6dd53e0148e909a62952e51359ba3b206a1e23ac9f05b"
+    },
+    {
+      "name": "patent-architect",
+      "mode": "explicit",
+      "path": "skills/patent-architect",
+      "sha256": "a6afe089f5c4ae6c48a51021ab6a348f8925a6401110f53d9a893bcb613bd82f"
+    },
+    {
+      "name": "patent-claims-analyzer",
+      "mode": "explicit",
+      "path": "skills/patent-claims-analyzer",
+      "sha256": "bc8b66b831c86460516c4c702492216db3a5b85e04950ff47f7498c193b0f058"
+    },
+    {
+      "name": "patent-diagram-generator",
+      "mode": "explicit",
+      "path": "skills/patent-diagram-generator",
+      "sha256": "26ca8fb77581b44ddae36e07b813ca498d31dd62c00868aec4db88e9ddcdeb1c"
+    },
+    {
+      "name": "patent-reviewer",
+      "mode": "explicit",
+      "path": "skills/patent-reviewer",
+      "sha256": "92198032e9a5ac70f1b0f97ce81ff065eef87b4033e72152b5668b7faf7865b7"
+    },
+    {
+      "name": "pct-application",
+      "mode": "explicit",
+      "path": "skills/pct-application",
+      "sha256": "3fbbc31f391962b9fc21b088bf09fd441ca860f14110cdec8292180ed3fb8822"
+    },
+    {
+      "name": "pdf-to-docx",
+      "mode": "explicit",
+      "path": "skills/pdf-to-docx",
+      "sha256": "fc0f2c9108e62c17fdb2ee58436adf3dfe550265e07888afc1b78f6160717c1f"
+    },
+    {
+      "name": "pdf",
+      "mode": "explicit",
+      "path": "skills/pdf",
+      "sha256": "34c438501949ca596790d11e74510d02f4e11e08d190f124e21e5b78b59f499a"
+    },
+    {
+      "name": "peft-fine-tuning",
+      "mode": "explicit",
+      "path": "skills/peft-fine-tuning",
+      "sha256": "31712d3000f8fd9199614c715cf2c28e7248149694cbc95d482e237d1a168463"
+    },
+    {
+      "name": "phoenix-observability",
+      "mode": "explicit",
+      "path": "skills/phoenix-observability",
+      "sha256": "8ee977e871daa8ebeb2612482d9210b29401f4355bfbcdd7b8235faed4199cf9"
+    },
+    {
+      "name": "pinecone",
+      "mode": "explicit",
+      "path": "skills/pinecone",
+      "sha256": "8d34180975c68d6085b3ee08be06b6684ec1e79144a1f3e08b5f2ab768e863eb"
+    },
+    {
+      "name": "polars",
+      "mode": "explicit",
+      "path": "skills/polars",
+      "sha256": "673d72058f58904ecdd1116e3b8d2d092e2ef9e01d7ee5c3ea1f599e01ea0b09"
+    },
+    {
+      "name": "posterskill-academic-posters",
+      "mode": "explicit",
+      "path": "skills/posterskill-academic-posters",
+      "sha256": "c821fd63014aabf2757a5fd75c27dc01260cc8fe00d7cae6dc2c506eba43688e"
+    },
+    {
+      "name": "postgres-pro",
+      "mode": "explicit",
+      "path": "skills/postgres-pro",
+      "sha256": "d34df14d152c5557619e3d9d18b15c1293d4072158bcf0d555da9523532e6fbe"
+    },
+    {
+      "name": "pptx",
+      "mode": "explicit",
+      "path": "skills/pptx",
+      "sha256": "9076f081292d182896f2ec6757bf7746a0dae4fd3a63b0be3d05c8033f3dcd0b"
+    },
+    {
+      "name": "prior-art-search",
+      "mode": "explicit",
+      "path": "skills/prior-art-search",
+      "sha256": "fe1e2f28545481c4ee585d1ce5a826a8256a3ee60a60132c068e6e810432d7c3"
+    },
+    {
+      "name": "prompt-engineering-patterns",
+      "mode": "explicit",
+      "path": "skills/prompt-engineering-patterns",
+      "sha256": "eaf78272d61be92fb5807a56ecb73c0b5f0e3b54dd20df6b5382947dc991fa6f"
+    },
+    {
+      "name": "python-anti-patterns",
+      "mode": "explicit",
+      "path": "skills/python-anti-patterns",
+      "sha256": "c09d03ccde3bcf8dfb0e04abd9dc7b428a31e9fc151396226f4c6e511dc45379"
+    },
+    {
+      "name": "python-background-jobs",
+      "mode": "explicit",
+      "path": "skills/python-background-jobs",
+      "sha256": "f770c592bc034d8da54d0672b91e068ca82ea59d18e6d2722559a9109abcff4b"
+    },
+    {
+      "name": "python-code-style",
+      "mode": "explicit",
+      "path": "skills/python-code-style",
+      "sha256": "91250e662a1b4b24d9286756bf91c21b401406a99a3cffcfa5a9eb1c1822e3b8"
+    },
+    {
+      "name": "python-configuration",
+      "mode": "explicit",
+      "path": "skills/python-configuration",
+      "sha256": "3f9a6c8a67bf5b4019b5b0c3873adc29c3b9691070509733f6a8e467fca66e16"
+    },
+    {
+      "name": "python-observability",
+      "mode": "explicit",
+      "path": "skills/python-observability",
+      "sha256": "6ecbc42aa353e9fc58d1487e20428052c0c6598dc8915f906c6a28ebee83c0a7"
+    },
+    {
+      "name": "python-performance-optimization",
+      "mode": "explicit",
+      "path": "skills/python-performance-optimization",
+      "sha256": "255a5ce6057446f63fd0123a3320ac0c65aec5fb18e451f1719ac61fb2ce6362"
+    },
+    {
+      "name": "python-resource-management",
+      "mode": "explicit",
+      "path": "skills/python-resource-management",
+      "sha256": "2412e5a57185025107e0b2040e0b5ab8316e2e621ffecf02b80513890b054224"
+    },
+    {
+      "name": "pytorch-fsdp2",
+      "mode": "explicit",
+      "path": "skills/pytorch-fsdp2",
+      "sha256": "ed1943c0321fedee26c21af8945160780fb719307fa12dbfd66888dd6e8f210a"
+    },
+    {
+      "name": "pytorch-lightning",
+      "mode": "explicit",
+      "path": "skills/pytorch-lightning",
+      "sha256": "099a19206fa24644e98fb3e1adc21f44aabfced176c81df246bd20b3f8a5620a"
+    },
+    {
+      "name": "qdrant-vector-search",
+      "mode": "explicit",
+      "path": "skills/qdrant-vector-search",
+      "sha256": "7a0f1c2674419afa5b53ad7da8c74fa7056942dcf05c7290d27d3531b85cfc32"
+    },
+    {
+      "name": "quantizing-models-bitsandbytes",
+      "mode": "explicit",
+      "path": "skills/quantizing-models-bitsandbytes",
+      "sha256": "bfa960a3195925823209b8f2ed0a845295886b91922e54d958436adb7d0a8cbd"
+    },
+    {
+      "name": "ray-data",
+      "mode": "explicit",
+      "path": "skills/ray-data",
+      "sha256": "1c50129ec3d32570237ab5ee3b09c56783b35c0c3e53e6f29f83b093bc1e87bf"
+    },
+    {
+      "name": "ray-train",
+      "mode": "explicit",
+      "path": "skills/ray-train",
+      "sha256": "b4cf40d331ca35b3ef862dd69960a0d3a9e252076649fc1f8f3943fe334a0022"
+    },
+    {
+      "name": "react-flow",
+      "mode": "explicit",
+      "path": "skills/react-flow",
+      "sha256": "24cd486d0e656d30ccceeda40f614e4346e33f5fd0069828b4dbe44277c65f65"
+    },
+    {
+      "name": "react-useeffect",
+      "mode": "implicit",
+      "path": "skills/react-useeffect",
+      "sha256": "5d25e3fd34be22c1aeb017e99bdaaeaf6efda2df05590f4a53d1a60e2ac49be2"
+    },
+    {
+      "name": "recharts",
+      "mode": "explicit",
+      "path": "skills/recharts",
+      "sha256": "0f7f706fb9a8955560f4e0294fe8ee2ea8357e728249b6ae67aea923b84ff6fe"
+    },
+    {
+      "name": "risk-assessment",
+      "mode": "explicit",
+      "path": "skills/risk-assessment",
+      "sha256": "a28b59d75a4bc14e402bf0716026b0a142d5ee6510dea5abec8582babfd93611"
+    },
+    {
+      "name": "runpod-deployment",
+      "mode": "explicit",
+      "path": "skills/runpod-deployment",
+      "sha256": "9546e5732fe85895c37ad7572f0d1ff35b66d2ce81a46ce4fe7f0eeaacfbae1d"
+    },
+    {
+      "name": "runpodctl",
+      "mode": "explicit",
+      "path": "skills/runpodctl",
+      "sha256": "fd483ee76e9a970736cb5a14f9c96593968d318f6806797fddcf26dbc183b7eb"
+    },
+    {
+      "name": "rust-async-patterns",
+      "mode": "explicit",
+      "path": "skills/rust-async-patterns",
+      "sha256": "ee1bae0a2b59b86ee8b8e8eb76cf531aa009840c6b9ed238c7284b23ba029101"
+    },
+    {
+      "name": "rust-best-practices",
+      "mode": "explicit",
+      "path": "skills/rust-best-practices",
+      "sha256": "367e9c21a81d61bac04fde28395d3bfbbfb012f1f20f457e5bf5cbc7bd548262"
+    },
+    {
+      "name": "rwkv-architecture",
+      "mode": "explicit",
+      "path": "skills/rwkv-architecture",
+      "sha256": "81e861e986f4ffbbbf3f8de20289c63c9e5e848156141507af5d35955579a2b5"
+    },
+    {
+      "name": "sandbox-migrate-to-next",
+      "mode": "explicit",
+      "path": "skills/sandbox-migrate-to-next",
+      "sha256": "b5773754e709bef489ee02b31f83e8f5f242808b7523bb9c19a4a4c7ef5d57c7"
+    },
+    {
+      "name": "sandbox-next",
+      "mode": "explicit",
+      "path": "skills/sandbox-next",
+      "sha256": "583c222ef331cc26cd60ed75b9bb682c8618ce4f72afa4870188cb3394d4b883"
+    },
+    {
+      "name": "sandbox-stable",
+      "mode": "explicit",
+      "path": "skills/sandbox-stable",
+      "sha256": "23e8df766af14150f5be25b264ca043330a6b694ab161e2cf0acbf427046b1e9"
+    },
+    {
+      "name": "scientific-visualization",
+      "mode": "explicit",
+      "path": "skills/scientific-visualization",
+      "sha256": "56f3b6c69a165d4c88a927a54f53a69288f5dfa7016157348cbb6c1a1cef37bf"
+    },
+    {
+      "name": "scientific-writing",
+      "mode": "explicit",
+      "path": "skills/scientific-writing",
+      "sha256": "2b5bd69fc36e182f4b17f856769ca7522c2f8f8914d8602f7a60fcf7ee4f9b2c"
+    },
+    {
+      "name": "sentence-transformers",
+      "mode": "explicit",
+      "path": "skills/sentence-transformers",
+      "sha256": "7898f577c7ae132eb6f49d9437af4867eec1af06370e1668491b7aa0a107e2fc"
+    },
+    {
+      "name": "sentencepiece",
+      "mode": "explicit",
+      "path": "skills/sentencepiece",
+      "sha256": "bcee24e4b487ffc42ac72a2a44e82fe63072276f3edf58168b10bee1b9af4925"
+    },
+    {
+      "name": "serp-analysis",
+      "mode": "explicit",
+      "path": "skills/serp-analysis",
+      "sha256": "38fe2d37ae7b62928204c795609baa7c31b0de6eb33afb9a149ea150f0cd4a14"
+    },
+    {
+      "name": "serving-llms-vllm",
+      "mode": "explicit",
+      "path": "skills/serving-llms-vllm",
+      "sha256": "f4f8b994c82da9cae8b0748451d016d500ff23a27da0d8d5b3164022e5369ebc"
+    },
+    {
+      "name": "sglang",
+      "mode": "explicit",
+      "path": "skills/sglang",
+      "sha256": "94ffb8bef2f89b72caa62f4d7cdcd0315fabaef4828704bd4c21a26247a842da"
+    },
+    {
+      "name": "simpo-training",
+      "mode": "explicit",
+      "path": "skills/simpo-training",
+      "sha256": "bffcb429e577a088939a7359e751f11c6f9bb48dd8150434f9bd8e0aff12299c"
+    },
+    {
+      "name": "skypilot-multi-cloud-orchestration",
+      "mode": "explicit",
+      "path": "skills/skypilot-multi-cloud-orchestration",
+      "sha256": "2c7a8190b8ae15407aec409b9d2dd06a08d98d5b99dd5aa4d4394b338b554c9a"
+    },
+    {
+      "name": "slidev",
+      "mode": "explicit",
+      "path": "skills/slidev",
+      "sha256": "5652a0f35fe8f4ea660cb46b3fb24cdaf12bd3b530a23868c6d2c96402be440f"
+    },
+    {
+      "name": "slime-rl-training",
+      "mode": "explicit",
+      "path": "skills/slime-rl-training",
+      "sha256": "e76fbe4b620847382dd94703638160a7bde25583fdd8e533cebb1167d0c19559"
+    },
+    {
+      "name": "speculative-decoding",
+      "mode": "explicit",
+      "path": "skills/speculative-decoding",
+      "sha256": "1de201ac57065fd39ce324a83d19e4f10e23e9f070d7883e52b9a99e3c35d557"
+    },
+    {
+      "name": "stop-slop",
+      "mode": "explicit",
+      "path": "skills/stop-slop",
+      "sha256": "c0328a377d9fbbb47d06bbb6bbffc8c8c6cfc17e0fea114172b7e167e997458d"
+    },
+    {
+      "name": "tailwind-design-system",
+      "mode": "explicit",
+      "path": "skills/tailwind-design-system",
+      "sha256": "69eedd597d84c37ad1098cb412533d492b294f7a0bf9055581b4e18f8c7c05e9"
+    },
+    {
+      "name": "tailwindcss-animations",
+      "mode": "explicit",
+      "path": "skills/tailwindcss-animations",
+      "sha256": "889550680a741ccf6293c240b00ef2f3c692db836c677b87014d10947c6c30ea"
+    },
+    {
+      "name": "tanstack-cli",
+      "mode": "explicit",
+      "path": "skills/tanstack-cli",
+      "sha256": "2c10314ee65fed17ad6c0c507a87cf4f4cc76b1a22ce92dab8beef87378c7f37"
+    },
+    {
+      "name": "tanstack-db",
+      "mode": "explicit",
+      "path": "skills/tanstack-db",
+      "sha256": "cd181d8def3d1c881fecd0230915eab25bbf46634b4ae786ef42c64aeae165ce"
+    },
+    {
+      "name": "tanstack-integration-best-practices",
+      "mode": "implicit",
+      "path": "skills/tanstack-integration-best-practices",
+      "sha256": "74d9172fa43852c1648b57c32fc8f00fd8651b5b2e1ca88b136fb66107e4989b"
+    },
+    {
+      "name": "tanstack-query",
+      "mode": "implicit",
+      "path": "skills/tanstack-query",
+      "sha256": "e420b1ba07e3b51196a2acb7609ca7fd71e39954f8abdd804526351948a1b13d"
+    },
+    {
+      "name": "tanstack-router-best-practices",
+      "mode": "implicit",
+      "path": "skills/tanstack-router-best-practices",
+      "sha256": "4c0e9d04ff37545a12f5b092f594e11bd6786393e0111cb1e214611a709db7a2"
+    },
+    {
+      "name": "tavily-best-practices",
+      "mode": "explicit",
+      "path": "skills/tavily-best-practices",
+      "sha256": "04c23ec855bea1e531e7901115ae47f76385102d7c3549dae7f1664ea2939f6f"
+    },
+    {
+      "name": "tavily-search",
+      "mode": "explicit",
+      "path": "skills/tavily-search",
+      "sha256": "d565e87e9a0b7c1c3c7a26f58bce9fb2788ff8616a256d90cc5d2f7740ba4863"
+    },
+    {
+      "name": "temporal-python-testing",
+      "mode": "explicit",
+      "path": "skills/temporal-python-testing",
+      "sha256": "db17b0e563df25262ba18cd68acb70ce3b0524de7b98db8b0b3ba792ce4e6b41"
+    },
+    {
+      "name": "tensorboard",
+      "mode": "explicit",
+      "path": "skills/tensorboard",
+      "sha256": "b7f476c7697bfc9eb0ce53aafc53fb27e3f8d1ddc50ab6c513ee1cc064c0ec74"
+    },
+    {
+      "name": "tensorrt-llm",
+      "mode": "explicit",
+      "path": "skills/tensorrt-llm",
+      "sha256": "2abcc25e8a591541a482ebd2487ff5d40cb979340c5bf9660d58902e0723ada0"
+    },
+    {
+      "name": "terraform-diagrams",
+      "mode": "explicit",
+      "path": "skills/terraform-diagrams",
+      "sha256": "f52744c7295a553235cdf8545abc2aeb13e2e1ec3427fd3c62373a5a19349bae"
+    },
+    {
+      "name": "terraform-search-import",
+      "mode": "explicit",
+      "path": "skills/terraform-search-import",
+      "sha256": "d2a74b5cb5746f5976add13ecc07cd13f035a71c9cab8991753d1bc47c425bd2"
+    },
+    {
+      "name": "terraform-skill",
+      "mode": "explicit",
+      "path": "skills/terraform-skill",
+      "sha256": "ff4516b1ee107a195d01d689f164a6bd132a099fb7117b65ced8b347599b9085"
+    },
+    {
+      "name": "terraform-stacks",
+      "mode": "explicit",
+      "path": "skills/terraform-stacks",
+      "sha256": "eeb09ac795a6267b40238311410068b0592bf843cda396d4b64c21b0011bc57e"
+    },
+    {
+      "name": "terraform-style-guide",
+      "mode": "explicit",
+      "path": "skills/terraform-style-guide",
+      "sha256": "c13bafa13dcc5184ca70a8113100c2483b7b41f751b79bfd2fb7f9a48fb65f4d"
+    },
+    {
+      "name": "torchforge-rl-training",
+      "mode": "explicit",
+      "path": "skills/torchforge-rl-training",
+      "sha256": "7a6be1f7a8a669d44c2c2cb5f5948cf834bec4a3fdc3bbf5469ff27ee4bf4d51"
+    },
+    {
+      "name": "training-llms-megatron",
+      "mode": "explicit",
+      "path": "skills/training-llms-megatron",
+      "sha256": "cabaaaf11045a3640389cf7e36b0b14d0c64310cd63ef2c8c7a4c9d054e46872"
+    },
+    {
+      "name": "turnstile-spin",
+      "mode": "explicit",
+      "path": "skills/turnstile-spin",
+      "sha256": "73048bf02134ef87040f1680684203a401d39e6ce96b7e30bde61ef7cc6c828f"
+    },
+    {
+      "name": "typescript-migration",
+      "mode": "explicit",
+      "path": "skills/typescript-migration",
+      "sha256": "8d818c1b5e01ff27181d37cc1ddc062cf7cd6724c32d112cc3bc22de8cd82451"
+    },
+    {
+      "name": "typescript-pro",
+      "mode": "implicit",
+      "path": "skills/typescript-pro",
+      "sha256": "fda4d52d12be76e665ccb501d7598a797100acc569abc2831621af94cdd83248"
+    },
+    {
+      "name": "ui-animation",
+      "mode": "explicit",
+      "path": "skills/ui-animation",
+      "sha256": "d150d7ebdb9fdb1ecefa1a5d2d5d39cfe741fb4fdc1691114c0c502f5d8db922"
+    },
+    {
+      "name": "ui-ux-pro-max",
+      "mode": "explicit",
+      "path": "skills/ui-ux-pro-max",
+      "sha256": "9c225453459fb6e89bf79f1e7456d127da03b537e09bcbf7fb3dbbdf17346d48"
+    },
+    {
+      "name": "unocss",
+      "mode": "explicit",
+      "path": "skills/unocss",
+      "sha256": "698d42a7106e026a217cecb32c8f0ea6899acecdc3e91e52976a54912049ba27"
+    },
+    {
+      "name": "unsloth",
+      "mode": "explicit",
+      "path": "skills/unsloth",
+      "sha256": "bcde1bb73dc592a5f18b8f283daa4b278a802ae4648bff0d8c84e383f1990ce5"
+    },
+    {
+      "name": "uv-package-manager",
+      "mode": "implicit",
+      "path": "skills/uv-package-manager",
+      "sha256": "a819a4e740723456e466af583f045e10362181424ddd2274d051afd1f16232bc"
+    },
+    {
+      "name": "vercel-composition-patterns",
+      "mode": "implicit",
+      "path": "skills/vercel-composition-patterns",
+      "sha256": "4700b475ac79c8dadb4bad1dd6338bb782512945b436983292a53fbf215c50c3"
+    },
+    {
+      "name": "verl-rl-training",
+      "mode": "explicit",
+      "path": "skills/verl-rl-training",
+      "sha256": "328a528a4a32b35af52f92ce965d7f92afb0926e6e603d23678725c61a21d8b1"
+    },
+    {
+      "name": "vite",
+      "mode": "implicit",
+      "path": "skills/vite",
+      "sha256": "b2908d94244f65a90f77eddd79a14eec79fc20c167e54212c862c09c8873e5c6"
+    },
+    {
+      "name": "web-design-guidelines",
+      "mode": "explicit",
+      "path": "skills/web-design-guidelines",
+      "sha256": "5195e79dc722b05a48a5cb87e657a0d1bd9027900a469755ffc1d25627051945"
+    },
+    {
+      "name": "web-perf",
+      "mode": "explicit",
+      "path": "skills/web-perf",
+      "sha256": "998b4acee80acbd1b985ee8dd557ce8823df9a2f41420175df3c3aa8d2261c84"
+    },
+    {
+      "name": "weights-and-biases",
+      "mode": "explicit",
+      "path": "skills/weights-and-biases",
+      "sha256": "cea3a79e14b6a553889d4d8359068ae9b3a074a7703a5d8296974db32b3d8564"
+    },
+    {
+      "name": "workers-best-practices",
+      "mode": "explicit",
+      "path": "skills/workers-best-practices",
+      "sha256": "78b81ce6192252bf033e27a380e2232d156d53954a4a82adadf25468e1147c1c"
+    },
+    {
+      "name": "workos-widgets",
+      "mode": "explicit",
+      "path": "skills/workos-widgets",
+      "sha256": "f2e068bb936c9db887f2af6d438633f0c9b710421613b6bbe635817f889fa301"
+    },
+    {
+      "name": "workos",
+      "mode": "explicit",
+      "path": "skills/workos",
+      "sha256": "08f337f717105bf1e0afb3c778e4f3654a625b07e6110cb8b46ac50d8a698e98"
+    },
+    {
+      "name": "wrangler",
+      "mode": "explicit",
+      "path": "skills/wrangler",
+      "sha256": "d43e816345ad1bdd92aec7f2a3babca893adf9e805224817f2389f644d7dbac6"
+    },
+    {
+      "name": "writing-clearly-and-concisely",
+      "mode": "explicit",
+      "path": "skills/writing-clearly-and-concisely",
+      "sha256": "0bdec61e91f0085009719f3f0881b399840356f0b235043fbd6a3512912c9d9d"
+    },
+    {
+      "name": "zod",
+      "mode": "implicit",
+      "path": "skills/zod",
+      "sha256": "b1d10997d71c0218a1b4781fb7320846d5dea1776ded53d6dbd8ec1bb6a48432"
+    }
+  ]
+}

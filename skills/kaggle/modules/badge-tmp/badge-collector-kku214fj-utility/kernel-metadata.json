@@ -1,0 +1,20 @@
+{
+  "id": "vicmcorrea/badge-collector-utility-script-1779221247",
+  "title": "badge-collector-utility-script-1779221247",
+  "code_file": "script.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "badge-collector",
+    "utility",
+    "automated"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

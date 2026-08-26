@@ -1,0 +1,6 @@
+interface:
+  display_name: "Why"
+  short_description: "Use for 'why does X work this way', 'why we picked Y', design rationale, regressions,..."
+  default_prompt: "Use $why for this request."
+policy:
+  allow_implicit_invocation: false

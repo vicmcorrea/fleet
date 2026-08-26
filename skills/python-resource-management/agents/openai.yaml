@@ -1,0 +1,6 @@
+interface:
+  display_name: "Python Resource Management"
+  short_description: "Python resource management with context managers, cleanup pat..."
+  default_prompt: "Use $python-resource-management for this request."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,28 @@
+---
+description: pstack per-role model choices (overrides skill defaults)
+alwaysApply: true
+---
+# pstack model configuration. One line per role. Delete a line to fall back to the skill default.
+# `inherit-parent` or `auto` as a value: the role runs on the parent chat model (omit Task `model`). Alias entries in a panel list still count toward its fan-out.
+# profile: other
+# GPT/Claude mix. Consumes Other Models quota or on-demand spend. Switch back with /pstack-profile cursor when that quota is gone.
+# Switch: /pstack-profile cursor | /pstack-profile other
+# At the start of a feature, bug-fix, arena, architect, or similar: if the user names cursor or grok-only, switch to `cursor` first. If they name other, gpt, claude, or full models, stay on other. If they do not name a profile, use the mapping below.
+feature, refactoring: cursor-grok-4.6-high-fast
+bug-fix: gpt-5.6-sol-xhigh
+perf-issue: gpt-5.6-sol-xhigh
+hillclimb: gpt-5.6-sol-xhigh
+judgment and prose: claude-fable-5-thinking-high
+hardest tasks: claude-fable-5-thinking-high
+how explorer: cursor-grok-4.6-high-fast
+how explainer: claude-fable-5-thinking-high
+how critics: claude-fable-5-thinking-high, gpt-5.6-sol-xhigh, cursor-grok-4.6-high-fast, claude-opus-5-thinking-high
+why investigators: cursor-grok-4.6-high-fast
+why synthesizer: claude-fable-5-thinking-high
+reflect tooling: gpt-5.6-sol-xhigh
+reflect judgment, divergent, synthesizer: claude-fable-5-thinking-high
+arena runners: claude-fable-5-thinking-high, gpt-5.6-sol-xhigh, cursor-grok-4.6-high-fast, claude-opus-5-thinking-high
+arena cross-judge pool: claude-fable-5-thinking-high, gpt-5.6-sol-xhigh, cursor-grok-4.6-high-fast, claude-opus-5-thinking-high
+swarm workers: cursor-grok-4.6-high-fast
+architect runners: claude-fable-5-thinking-high, gpt-5.6-sol-xhigh, cursor-grok-4.6-high-fast, claude-opus-5-thinking-high
+interrogate reviewers: claude-fable-5-thinking-high, gpt-5.6-sol-xhigh, cursor-grok-4.6-high-fast, claude-opus-5-thinking-high

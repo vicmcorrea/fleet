@@ -1,0 +1,6 @@
+interface:
+  display_name: "Fastapi Templates"
+  short_description: "Create production-ready FastAPI projects with async patterns,..."
+  default_prompt: "Use $fastapi-templates for this request."
+policy:
+  allow_implicit_invocation: false

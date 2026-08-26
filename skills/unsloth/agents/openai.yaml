@@ -1,0 +1,6 @@
+interface:
+  display_name: "Unsloth"
+  short_description: "Expert guidance for fast fine-tuning with Unsloth - 2-5x fast..."
+  default_prompt: "Use $unsloth for this request."
+policy:
+  allow_implicit_invocation: false

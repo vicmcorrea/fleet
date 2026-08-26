@@ -1,0 +1,53 @@
+{
+  "title": "badge-collector-documented-dataset-1779301561",
+  "id": "vicmcorrea/badge-collector-documented-dataset-1779301561",
+  "subtitle": "Sample student performance data for demonstration",
+  "description": "Well-documented sample dataset containing student performance records. Includes scores, grades, and dates for 20 students. Created by Kaggle Badge Collector for badge collection purposes.",
+  "licenses": [
+    {
+      "name": "CC0-1.0"
+    }
+  ],
+  "keywords": [
+    "badge-collector",
+    "education",
+    "students",
+    "tabular",
+    "classification"
+  ],
+  "resources": [
+    {
+      "path": "data.csv",
+      "description": "Student performance records with scores and grades",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Unique student ID"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "Student name"
+          },
+          {
+            "name": "score",
+            "type": "integer",
+            "description": "Test score (0-100)"
+          },
+          {
+            "name": "grade",
+            "type": "string",
+            "description": "Letter grade"
+          },
+          {
+            "name": "date",
+            "type": "date",
+            "description": "Record date"
+          }
+        ]
+      }
+    }
+  ]
+}

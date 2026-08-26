@@ -1,0 +1,6 @@
+interface:
+  display_name: "Building Streamlit Custom Components V2"
+  short_description: "Builds bidirectional Streamlit Custom Components v2 (CCv2) us..."
+  default_prompt: "Use $building-streamlit-custom-components-v2 for this request."
+policy:
+  allow_implicit_invocation: false

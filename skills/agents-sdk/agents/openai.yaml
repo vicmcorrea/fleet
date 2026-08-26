@@ -1,0 +1,6 @@
+interface:
+  display_name: "Agents Sdk"
+  short_description: "Build AI agents on Cloudflare Workers using the Agents SDK. L..."
+  default_prompt: "Use $agents-sdk for this request."
+policy:
+  allow_implicit_invocation: false

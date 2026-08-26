@@ -1,0 +1,23 @@
+{
+  "title": "badge-collector-tagged-dataset-1779221247",
+  "id": "vicmcorrea/badge-collector-tagged-dataset-1779221247",
+  "licenses": [
+    {
+      "name": "CC0-1.0"
+    }
+  ],
+  "keywords": [
+    "badge-collector",
+    "python",
+    "data-science",
+    "machine-learning",
+    "classification"
+  ],
+  "resources": [
+    {
+      "path": "data.csv",
+      "description": "Tagged sample data"
+    }
+  ],
+  "description": "Tagged dataset for badge collection."
+}

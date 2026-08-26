@@ -1,0 +1,36 @@
+{
+  "name": "pstack",
+  "version": "0.14.3+fleet.1",
+  "description": "Codex-native PStack workflows, namespaced and explicit-only to avoid global skill conflicts.",
+  "author": {
+    "name": "pstack-for-codex maintainers"
+  },
+  "homepage": "https://github.com/Aqua-123/pstack-for-codex",
+  "repository": "https://github.com/Aqua-123/pstack-for-codex",
+  "license": "MIT",
+  "keywords": [
+    "pstack",
+    "codex",
+    "engineering-workflows",
+    "poteto-mode",
+    "principles"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "PStack",
+    "shortDescription": "Explicit Codex engineering workflows",
+    "longDescription": "A Codex-native PStack adapter for deliberate planning, implementation, review, verification, and orchestration. Every skill is explicit-only.",
+    "developerName": "Lauren Tan, Aqua-123, and Fleet maintainers",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Plan engineering work",
+      "Orchestrate bounded agents",
+      "Review and verify changes"
+    ],
+    "defaultPrompt": [
+      "Use $poteto-mode for this engineering task.",
+      "Use $architect to design this change before implementation.",
+      "Use $blast-radius to assess what this change could break."
+    ]
+  }
+}

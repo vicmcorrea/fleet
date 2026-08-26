@@ -1,0 +1,6 @@
+interface:
+  display_name: "Application Security"
+  short_description: "Application security covering threat modeling (STRIDE), OWASP..."
+  default_prompt: "Use $application-security for this request."
+policy:
+  allow_implicit_invocation: false

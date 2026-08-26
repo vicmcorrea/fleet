@@ -1,0 +1,6 @@
+interface:
+  display_name: "Langchain"
+  short_description: "Framework for building LLM-powered applications with agents,..."
+  default_prompt: "Use $langchain for this request."
+policy:
+  allow_implicit_invocation: false

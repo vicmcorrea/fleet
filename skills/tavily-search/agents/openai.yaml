@@ -1,0 +1,6 @@
+interface:
+  display_name: "Tavily Search"
+  short_description: "Search the web with LLM-optimized results via the Tavily CLI...."
+  default_prompt: "Use $tavily-search for this request."
+policy:
+  allow_implicit_invocation: false

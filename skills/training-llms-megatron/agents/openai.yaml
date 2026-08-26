@@ -1,0 +1,6 @@
+interface:
+  display_name: "Training Llms Megatron"
+  short_description: "Trains large language models (2B-462B parameters) using NVIDI..."
+  default_prompt: "Use $training-llms-megatron for this request."
+policy:
+  allow_implicit_invocation: false

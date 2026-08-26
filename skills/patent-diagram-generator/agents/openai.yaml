@@ -1,0 +1,6 @@
+interface:
+  display_name: "Patent Diagram Generator"
+  short_description: "Create patent-style technical diagrams including flowcharts,..."
+  default_prompt: "Use $patent-diagram-generator for this request."
+policy:
+  allow_implicit_invocation: false

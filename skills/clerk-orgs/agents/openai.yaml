@@ -1,0 +1,6 @@
+interface:
+  display_name: "Clerk Orgs"
+  short_description: "Clerk Organizations for B2B SaaS - create multi-tenant apps w..."
+  default_prompt: "Use $clerk-orgs for this request."
+policy:
+  allow_implicit_invocation: false

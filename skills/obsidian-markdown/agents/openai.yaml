@@ -1,0 +1,6 @@
+interface:
+  display_name: "Obsidian Markdown"
+  short_description: "Create and edit Obsidian Flavored Markdown with wikilinks, em..."
+  default_prompt: "Use $obsidian-markdown for this request."
+policy:
+  allow_implicit_invocation: false

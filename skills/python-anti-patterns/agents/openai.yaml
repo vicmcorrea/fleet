@@ -1,0 +1,6 @@
+interface:
+  display_name: "Python Anti Patterns"
+  short_description: "Use this skill when reviewing Python code for common anti-pat..."
+  default_prompt: "Use $python-anti-patterns for this request."
+policy:
+  allow_implicit_invocation: false

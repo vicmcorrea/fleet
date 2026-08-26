@@ -1,0 +1,6 @@
+interface:
+  display_name: "Aws Rds"
+  short_description: "Provision and manage RDS databases. Configure backups, replic..."
+  default_prompt: "Use $aws-rds for this request."
+policy:
+  allow_implicit_invocation: false

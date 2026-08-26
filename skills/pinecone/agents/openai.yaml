@@ -1,0 +1,6 @@
+interface:
+  display_name: "Pinecone"
+  short_description: "Managed vector database for production AI applications. Fully..."
+  default_prompt: "Use $pinecone for this request."
+policy:
+  allow_implicit_invocation: false

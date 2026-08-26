@@ -1,0 +1,6 @@
+interface:
+  display_name: "Improving Streamlit Design"
+  short_description: "Improving visual design in Streamlit apps. Use when polishing..."
+  default_prompt: "Use $improving-streamlit-design for this request."
+policy:
+  allow_implicit_invocation: false

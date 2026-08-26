@@ -1,0 +1,21 @@
+{
+  "name": "fleet",
+  "owner": {
+    "name": "Victor Correa"
+  },
+  "description": "Portable, curated agent skills and plugins managed by Fleet.",
+  "plugins": [
+    {
+      "name": "pstack",
+      "source": "./plugins/pstack/claude",
+      "description": "Explicit-only PStack workflows adapted for Claude Code.",
+      "version": "0.9.12+fleet.1",
+      "author": {
+        "name": "Lauren Tan, Michael Denyer, and Fleet maintainers"
+      },
+      "homepage": "https://github.com/vicmcorrea/fleet",
+      "license": "MIT",
+      "keywords": ["pstack", "workflow", "subagents", "verification"]
+    }
+  ]
+}

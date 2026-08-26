@@ -1,0 +1,37 @@
+{
+  "title": "badge-collector-dataset-1779301535",
+  "id": "vicmcorrea/badge-collector-dataset-1779301535",
+  "licenses": [
+    {
+      "name": "CC0-1.0"
+    }
+  ],
+  "keywords": [
+    "badge-collector",
+    "automated",
+    "data-science"
+  ],
+  "resources": [
+    {
+      "path": "data.csv",
+      "description": "Sample data file",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer"
+          },
+          {
+            "name": "value",
+            "type": "integer"
+          },
+          {
+            "name": "category",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ],
+  "description": "Auto-generated dataset for badge collection. Contains sample tabular data."
+}

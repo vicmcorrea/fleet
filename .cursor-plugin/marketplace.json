@@ -1,0 +1,24 @@
+{
+  "name": "fleet",
+  "owner": {
+    "name": "Victor Correa"
+  },
+  "metadata": {
+    "description": "Portable, curated agent skills and plugins managed by Fleet."
+  },
+  "plugins": [
+    {
+      "name": "pstack",
+      "source": "plugins/pstack/cursor",
+      "description": "Explicit-only PStack workflows for Cursor.",
+      "version": "0.14.3+fleet.1",
+      "author": {
+        "name": "Lauren Tan and Fleet maintainers"
+      },
+      "homepage": "https://github.com/vicmcorrea/fleet",
+      "license": "MIT",
+      "keywords": ["pstack", "workflow", "subagents", "verification"],
+      "category": "developer-tools"
+    }
+  ]
+}

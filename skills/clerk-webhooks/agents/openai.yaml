@@ -1,0 +1,6 @@
+interface:
+  display_name: "Clerk Webhooks"
+  short_description: "Clerk webhooks for real-time events and data syncing. Listen..."
+  default_prompt: "Use $clerk-webhooks for this request."
+policy:
+  allow_implicit_invocation: false

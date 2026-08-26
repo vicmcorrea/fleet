@@ -1,0 +1,6 @@
+interface:
+  display_name: "Aws Iam"
+  short_description: "\"Verified corrections for IAM behaviors that AI agents freque..."
+  default_prompt: "Use $aws-iam for this request."
+policy:
+  allow_implicit_invocation: false

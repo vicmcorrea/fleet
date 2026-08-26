@@ -1,0 +1,19 @@
+{
+  "id": "vicmcorrea/badge-collector-r-nb-1779221247",
+  "title": "badge-collector-r-nb-1779221247",
+  "code_file": "notebook.ipynb",
+  "language": "r",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "badge-collector",
+    "automated"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

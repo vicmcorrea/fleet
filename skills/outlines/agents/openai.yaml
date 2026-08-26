@@ -1,0 +1,6 @@
+interface:
+  display_name: "Outlines"
+  short_description: "Guarantee valid JSON/XML/code structure during generation, us..."
+  default_prompt: "Use $outlines for this request."
+policy:
+  allow_implicit_invocation: false

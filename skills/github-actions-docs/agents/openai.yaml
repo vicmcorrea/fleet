@@ -1,0 +1,6 @@
+interface:
+  display_name: "Github Actions Docs"
+  short_description: "Use when users ask how to write, explain, customize, migrate,..."
+  default_prompt: "Use $github-actions-docs for this request."
+policy:
+  allow_implicit_invocation: true

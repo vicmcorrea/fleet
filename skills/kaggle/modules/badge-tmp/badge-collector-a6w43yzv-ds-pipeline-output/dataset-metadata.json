@@ -1,0 +1,20 @@
+{
+  "title": "badge-collector-pipeline-dataset-1779301678",
+  "id": "vicmcorrea/badge-collector-pipeline-dataset-1779301678",
+  "licenses": [
+    {
+      "name": "CC0-1.0"
+    }
+  ],
+  "keywords": [
+    "badge-collector",
+    "pipeline"
+  ],
+  "resources": [
+    {
+      "path": "output_data.csv",
+      "description": "Pipeline output"
+    }
+  ],
+  "description": "Dataset created from notebook output (badge-collector-ds-pipeline-nb-1779301623)"
+}

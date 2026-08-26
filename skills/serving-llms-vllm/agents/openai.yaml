@@ -1,0 +1,6 @@
+interface:
+  display_name: "Serving Llms Vllm"
+  short_description: "Serves LLMs with high throughput using vLLM's PagedAttention..."
+  default_prompt: "Use $serving-llms-vllm for this request."
+policy:
+  allow_implicit_invocation: false

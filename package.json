@@ -1,0 +1,17 @@
+{
+  "name": "fleet-agent-skills",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "doctor": "node scripts/fleet.mjs doctor",
+    "import": "node scripts/fleet.mjs import-current",
+    "install": "node scripts/fleet.mjs install",
+    "restore": "node scripts/fleet.mjs restore",
+    "test": "node --test tests/*.test.mjs",
+    "validate": "node scripts/fleet.mjs validate"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

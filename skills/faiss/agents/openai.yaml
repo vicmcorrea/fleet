@@ -1,0 +1,6 @@
+interface:
+  display_name: "Faiss"
+  short_description: "Facebook's library for efficient similarity search and cluste..."
+  default_prompt: "Use $faiss for this request."
+policy:
+  allow_implicit_invocation: false

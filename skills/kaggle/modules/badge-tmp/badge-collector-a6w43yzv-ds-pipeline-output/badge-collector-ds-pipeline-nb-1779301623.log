@@ -1,0 +1,24 @@
+[{"stream_name":"stderr","time":8.493694415,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":8.493801895,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":8.493807665,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":8.493811435,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":9.175224618,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":9.175258328,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":9.175263578,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":9.175268328,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":11.500887197,"data":"Output shape: (10, 3)\n"}
+,{"stream_name":"stdout","time":11.500944057,"data":"   x   y label\n"}
+,{"stream_name":"stdout","time":11.500948947,"data":"0  1   1   odd\n"}
+,{"stream_name":"stdout","time":11.500952727,"data":"1  2   4  even\n"}
+,{"stream_name":"stdout","time":11.500956417,"data":"2  3   9   odd\n"}
+,{"stream_name":"stdout","time":11.500960837000001,"data":"3  4  16  even\n"}
+,{"stream_name":"stdout","time":11.500964127,"data":"4  5  25   odd\n"}
+,{"stream_name":"stderr","time":14.229029668999999,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":14.22912518,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":14.413101119,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":14.413142879,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":15.040755217,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":15.302346785,"data":"[NbConvertApp] Writing 2131 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":17.708571072,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":18.479916445,"data":"[NbConvertApp] Writing 274886 bytes to __results__.html\n"}
+]

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Nanogpt"
+  short_description: "Educational GPT implementation in ~300 lines. Reproduces GPT-..."
+  default_prompt: "Use $nanogpt for this request."
+policy:
+  allow_implicit_invocation: false

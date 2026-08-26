@@ -1,0 +1,6 @@
+interface:
+  display_name: "Biome"
+  short_description: "Biome - Fast all-in-one toolchain for web projects (linter +..."
+  default_prompt: "Use $biome for this request."
+policy:
+  allow_implicit_invocation: true

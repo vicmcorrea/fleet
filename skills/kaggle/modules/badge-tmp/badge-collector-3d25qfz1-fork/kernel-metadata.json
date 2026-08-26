@@ -1,0 +1,19 @@
+{
+  "id": "vicmcorrea/badge-collector-forked-nb-1779301514",
+  "title": "badge-collector-forked-nb-1779301514",
+  "code_file": "titanic-tutorial.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "badge-collector",
+    "forked"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Tailwind Design System"
+  short_description: "Build scalable design systems with Tailwind CSS v4, design to..."
+  default_prompt: "Use $tailwind-design-system for this request."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Dataverse Python Advanced Patterns"
+  short_description: "Generate production code for Dataverse SDK using advanced pat..."
+  default_prompt: "Use $dataverse-python-advanced-patterns for this request."
+policy:
+  allow_implicit_invocation: false
