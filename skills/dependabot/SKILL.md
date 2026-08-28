@@ -1,6 +1,6 @@
 ---
 name: dependabot
-description: ">-"
+description: "Configure and maintain Dependabot for dependency and security updates. Use when creating, reviewing, optimizing, or troubleshooting .github/dependabot.yml, including ecosystems, schedules, grouping, registries, and monorepos."
 disable-model-invocation: false
 ---
 
