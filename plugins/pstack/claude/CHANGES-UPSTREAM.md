@@ -2,6 +2,22 @@
 
 This port applies the Cursor → Claude Code substitutions in skill bodies. Earlier drafts left them flagged; this revision resolves them. A later pass added a Codex build that shares the same skills; see [Codex port](#codex-port) below.
 
+## 0.9.12+fleet.5 — Haiku-free shared mapping
+
+The shared PStack sheet now uses the `opus` slot for exploration instead of `haiku`. Native Claude therefore runs those roles on native Opus and never selects Haiku. ClaudeX maps the same accepted `opus` slot to GPT-5.6 Terra with a provider-scoped `ANTHROPIC_DEFAULT_OPUS_MODEL`; its Sonnet-to-Sol implementation route is unchanged.
+
+## 0.9.12+fleet.4 — role-specialized ClaudeX routing
+
+The ClaudeX preset now keeps token-heavy exploration off Fable. Fable remains the parent, architect, synthesizer, and final judge; the provider-scoped `sonnet` alias routes implementation to GPT-5.6 Sol; the provider-scoped `haiku` alias routes exploration and tooling analysis to GPT-5.6 Terra. Mixed panels use all three while architect stays Fable-only. Both gateway alias routes require end-to-end parent/subagent validation.
+
+## 0.9.12+fleet.3 — Fable-parent ClaudeX routing
+
+`setup-pstack` now supports Claude Code surfaces that expose gateway models in discovery but restrict `Agent.model` to Claude aliases. The documented ClaudeX preset keeps Fable as the parent and architecture model while routing the accepted `sonnet` subagent slot to GPT-5.6 Sol for implementation through a provider-scoped `ANTHROPIC_DEFAULT_SONNET_MODEL`. Setup requires an end-to-end parent/subagent probe before saving an alias route.
+
+## 0.9.12+fleet.2 — gateway-aware model setup
+
+`setup-pstack` now treats the active Claude Code session as the model boundary instead of assuming every delegated model is Claude. A Claude Code session routed through CLIProxyAPI or another LLM gateway can discover, validate, and combine Claude and GPT model IDs in one `~/.claude/pstack-models.md`. Setup stops when `CLAUDE_CODE_SUBAGENT_MODEL` pins every subagent to one model, because that environment override would defeat the per-role mapping. The obsolete Codex override-sheet branch was removed; the Codex adapter owns Codex-native setup separately.
+
 ## 0.9.12 — pin the thermo-nuclear report format
 
 The 0.9.11 swarm routing flattened thermo-nuclear reviews into one consolidated report, dropping the summary-plus-per-subsystem-file layout earlier reviews produced. `thermo-nuclear-code-quality-review` now carries a Report Format section that pins the layered deliverable (a ~200-line narrative summary plus one detail file per subsystem reviewer) and overrides swarm's aggregation rules for this review (#28).
