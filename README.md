@@ -51,10 +51,10 @@ Invoke the mode with `$pstack:poteto-mode` in Codex or `/pstack:poteto-mode` in 
 
 ## Install
 
-Requires Node.js 20 or newer and the client CLIs you use.
+Fleet supports macOS and Linux. It requires Git, Node.js 20 or newer, and the client CLIs you use.
 
 ```bash
-git clone git@github.com:vicmcorrea/fleet.git ~/code/fleet
+git clone https://github.com/vicmcorrea/fleet.git ~/code/fleet
 cd ~/code/fleet
 npm test
 npm run install
