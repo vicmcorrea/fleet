@@ -489,7 +489,7 @@ async function preparePstack() {
   await writeJson(claudeManifestPath, {
     ...claudeManifest,
     displayName: "PStack",
-    version: "0.9.12+fleet.5",
+    version: "0.9.12+fleet.1",
     description:
       "Claude Code PStack workflows derived from upstream 0.14.2. Fleet removes auto-fire hooks and exposes every workflow explicitly.",
   });

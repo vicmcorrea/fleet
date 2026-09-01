@@ -9,7 +9,7 @@
       "name": "pstack",
       "source": "./plugins/pstack/claude",
       "description": "Explicit-only PStack workflows adapted for Claude Code.",
-      "version": "0.9.12+fleet.5",
+      "version": "0.9.12+fleet.1",
       "author": {
         "name": "Lauren Tan, Michael Denyer, and Fleet maintainers"
       },
